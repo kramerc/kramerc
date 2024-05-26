@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+Welcome to my GitHub page. 
+
+###  🔭 I’m currently working on ...
+
+See my [starred list of active repos](https://github.com/stars/kramerc/lists/my-stuff-i-m-working-on).
+
+### 📫 How to reach me
+
+- Email: kramer@kramerc.com ([pgp](https://kramerc.com/pgp.txt))
+- Website: https://kramerc.com
+
 <!--
 **kramerc/kramerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
