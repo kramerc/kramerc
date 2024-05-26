@@ -8,8 +8,8 @@ See my [starred list of active repos](https://github.com/stars/kramerc/lists/my-
 
 ### 📫 How to reach me
 
-- Email: kramer@kramerc.com ([pgp](https://kramerc.com/pgp.txt))
-- Website: https://kramerc.com
+**Email:** kramer@kramerc.com ([pgp](https://kramerc.com/pgp.txt))  
+**Website:** https://kramerc.com
 
 <!--
 **kramerc/kramerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
